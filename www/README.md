@@ -1,0 +1,2 @@
+# Mersey Hosting Hub Community Repo
+This repo dose not contain any of our script. This part of the repo will mirror our website and will contain helpful information and announcements regarding that page on the website.
